@@ -1,2 +1,0 @@
-# blue
-Begin app
